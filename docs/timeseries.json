@@ -35438,31 +35438,31 @@
     },
     {
       "date": "2020-3-16",
-      "confirmed": 54,
+      "confirmed": 57,
       "deaths": 0,
       "recovered": 0
     },
     {
       "date": "2020-3-17",
-      "confirmed": 65,
+      "confirmed": 75,
       "deaths": 0,
       "recovered": 1
     },
     {
       "date": "2020-3-18",
-      "confirmed": 93,
-      "deaths": 0,
-      "recovered": 1
-    },
-    {
-      "date": "2020-3-19",
       "confirmed": 102,
       "deaths": 0,
       "recovered": 1
     },
     {
+      "date": "2020-3-19",
+      "confirmed": 108,
+      "deaths": 0,
+      "recovered": 1
+    },
+    {
       "date": "2020-3-20",
-      "confirmed": 128,
+      "confirmed": 158,
       "deaths": 0,
       "recovered": 1
     },
